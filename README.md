@@ -23,7 +23,7 @@ To use the solver, copy the directory passiveScalarpisoFoam to your working dire
    ```
 
 ## Run Examples
-Both examples are ready to run either in serial or parallel, just copy the example to your personal directory and execute the command 
+Both examples are ready to run either in serial or parallel, just copy the example to your working directory and execute the command 
  ```bash
    passiveScalarpisoFoam
    ```
