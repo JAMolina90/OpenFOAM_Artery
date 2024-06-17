@@ -16,9 +16,8 @@ The mesh employed in both examples was obtained from https://github.com/Chr1sC0d
 
 ## Installation
 
-To use the solver, follow these steps:
-
-1. Clone the repository:
+To use the solver, copy the directory passiveScalarpisoFoam in your personal directory and execute:
    ```bash
    git clone https://github.com/JAMolina90/OpenFOAM_Artery.git
    cd OpenFOAM_Artery
+   exit
