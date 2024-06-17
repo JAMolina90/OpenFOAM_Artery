@@ -16,7 +16,7 @@ The mesh employed in both examples was obtained from https://github.com/Chr1sC0d
 
 ## Installation
 
-To use the solver, copy the directory passiveScalarpisoFoam in your personal  and execute:
+To use the solver, copy the directory passiveScalarpisoFoam to your working directory and execute:
    ```bash
    cd passiveScalarpisoFoam
    wmake
