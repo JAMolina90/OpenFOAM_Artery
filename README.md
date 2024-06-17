@@ -20,4 +20,7 @@ To use the solver, copy the directory passiveScalarpisoFoam in your personal dir
    ```bash
    git clone https://github.com/JAMolina90/OpenFOAM_Artery.git
    cd OpenFOAM_Artery
-   exit
+   ```
+
+## Run Examples
+
