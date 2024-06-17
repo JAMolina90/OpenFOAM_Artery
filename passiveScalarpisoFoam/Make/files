@@ -1,0 +1,3 @@
+passiveScalarpisoFoam.C
+
+EXE = $(FOAM_APPBIN)/passiveScalarpisoFoam
