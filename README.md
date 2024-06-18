@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code of the numerical model presented in the paper: **"A new open-source solver for early detection of atherosclerosis based on hemodynamics and LDL transport simulation"**.
+This repository contains the source code of the numerical model presented in the paper: **"A new open-source solver for early detection of atherosclerosis based on hemodynamics and LDL transport simulation"** by Jorge Molina, Daniel Rhys Obaid and A. S. Ademiloye.
 
 The model is implemented using OpenFOAM and includes ad-hoc boundary and initial conditions for simulating hemodynamics and LDL transport in Arteries.
 
