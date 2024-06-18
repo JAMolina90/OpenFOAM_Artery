@@ -16,14 +16,14 @@ The mesh employed in both examples was obtained from https://github.com/Chr1sC0d
 
 ## Installation
 
-To use the solver, copy the directory passiveScalarpisoFoam to your working directory and execute:
+To use the solver, first install OpenFOAM on your computer, then copy the directory passiveScalarpisoFoam to your working directory and execute:
    ```bash
    cd passiveScalarpisoFoam
    wmake
    ```
 
 ## Run Examples
-Both examples are ready to run either in serial or parallel, just copy the example to your working directory and execute the command 
+Both examples are ready to run either in serial or parallel. Just copy the example to your working directory and execute the command:
  ```bash
    passiveScalarpisoFoam
    ```
