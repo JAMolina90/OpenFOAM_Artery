@@ -27,3 +27,6 @@ Both examples are ready to run either in serial or parallel. Just copy the examp
  ```bash
    passiveScalarpisoFoam
    ```
+
+## Contact
+Created by [Jorge Molina](mailto:jorgemolina@ugr.es) - feel free to contact me!
